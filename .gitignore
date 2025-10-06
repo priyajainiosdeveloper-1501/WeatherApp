@@ -1,0 +1,10 @@
+# Xcode
+DerivedData/
+*.xcuserdata
+*.xcuserstate
+*.hmap
+*.ipa
+*.DS_Store
+
+# CocoaPods
+Pods/
