@@ -5,6 +5,8 @@ DerivedData/
 *.hmap
 *.ipa
 *.DS_Store
+*.p12
+*.mobileprovision
 
 # CocoaPods
 Pods/
